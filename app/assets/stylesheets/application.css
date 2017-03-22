@@ -27,6 +27,7 @@
 .h1blah{
   color: white;
   text-shadow: 1px 1px #000;
+  /*text-shadow: 1px 1px #1BE271;*/
 }
 html,
 body {
@@ -36,9 +37,6 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-.jose_logo{
-  height: 150px
 }
 
 .text-vertical-center {
@@ -180,7 +178,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../assets/palmtrees.jpeg) no-repeat center center scroll;
+    background: url(../assets/miamibeach.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
