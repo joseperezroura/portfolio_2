@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+.jose_logo {
+    height: 150px;
+}
+
+body{
+  background-color: rgba(30,30,30,0.9);
+}
