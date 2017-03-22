@@ -26,6 +26,7 @@
 /* Global Styles */
 .h1blah{
   color: white;
+  text-shadow: 1px 1px #000;
 }
 html,
 body {
@@ -209,7 +210,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
+    background: url(../assets/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
