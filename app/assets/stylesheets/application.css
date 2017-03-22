@@ -45,13 +45,13 @@ body {
     vertical-align: middle;
 }
 .jojo {
-  height: 150px;
+  height: 250px;
 }
 
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
-    font-size: 4.5em;
+    font-size: 4.0em;
     font-weight: 700;
 }
 
