@@ -4,10 +4,12 @@
 	 viewBox="0 0 163.5 24" style="enable-background:new 0 0 163.5 24;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
-	.st1{font-family:'IndustryInc-Outline';}
-	.st2{font-size:8px;}
-	.st3{font-size:6px;}
+	.st1{font-family:'Amboy-Black';}
+	.st2{font-size:11.7539px;}
+	.st3{fill:#D852D2;stroke:#020202;stroke-width:0.25;stroke-miterlimit:10;}
+	.st4{font-family:'ParkwayHotel';}
+	.st5{font-size:7.6853px;}
 </style>
-<text transform="matrix(1.6642 0 0 1 21.5858 14.7982)" class="st0 st1 st2">jose perez-roura</text>
-<text transform="matrix(1.6642 0 0 1 57.0855 22.7985)" class="st0 st1 st3">portfolio</text>
+<text transform="matrix(0.8332 0 0 1 38.333 16.0781)" class="st0 st1 st2">jose perez-roura</text>
+<text transform="matrix(1.2925 0 0 1 52.6665 22.5229)" class="st3 st4 st5">PORTFOLIO</text>
 </svg>

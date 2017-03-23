@@ -45,9 +45,11 @@ body {
     vertical-align: middle;
 }
 .jojo {
-  height: 250px;
+  height: 30px;
 }
-
+.jojo2{
+  height: 200px;
+}
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
@@ -61,6 +63,8 @@ body {
     border-radius: 0;
     color: #fff;
     background-color: rgba(0,0,0,0.8);
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .btn-dark:hover,
