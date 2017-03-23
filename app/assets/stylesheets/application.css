@@ -44,6 +44,10 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: 'Open Sans', sans-serif;*/
+}
+.imdb{
+  background-color: black;
 }
 
 .text-vertical-center {
@@ -115,7 +119,7 @@ hr.small {
     transform: translateX(250px);
     overflow-y: auto;
     background: #D852D2;
-    opacity: 0.7;
+    opacity: 0.8;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
@@ -291,7 +295,7 @@ footer {
     color: white;
     text-shadow: .5px .5px #000;
     font-size: 18px;
-
+    padding: 50px 0;
 }
 
 #to-top {
