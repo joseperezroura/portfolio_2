@@ -24,6 +24,12 @@
  */
 
 /* Global Styles */
+.toggleblah{
+  width: 44px;
+}
+.blue{
+  color: #337ab7;
+}
 h2{
   font-family: 'Teko', sans-serif;
 }
@@ -289,13 +295,13 @@ hr.small {
 
 footer {
     padding: 100px 0;
-    background: url(../assets/miamibeach.jpg) no-repeat center center scroll;
+    background: url(../assets/palmtrees.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     color: white;
-    text-shadow: .5px .5px #000;
+    text-shadow: 1px 1px #000;
     font-size: 18px;
     padding: 50px 0;
 }
