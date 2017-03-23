@@ -3,9 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 62.3 8.3" style="enable-background:new 0 0 62.3 8.3;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#D852D2;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
+	.st0{fill:#D852D2;}
 	.st1{font-family:'ParkwayHotel';}
 	.st2{font-size:7.6853px;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:10;}
 </style>
-<text transform="matrix(1.1132 0 0 1 8.1665 5.8564)" class="st0 st1 st2">javascript</text>
+<text transform="matrix(1.1132 0 0 1 9.1665 5.8564)" class="st0 st1 st2">javascript</text>
+<text transform="matrix(1.1132 0 0 1 9.1665 5.8564)" class="st3 st1 st2">javascript</text>
 </svg>

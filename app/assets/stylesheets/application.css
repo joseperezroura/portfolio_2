@@ -24,10 +24,17 @@
  */
 
 /* Global Styles */
+
+.white {
+  color: white;
+}
 .h1blah{
   color: white;
   text-shadow: 1px 1px #000;
   /*text-shadow: 1px 1px #1BE271;*/
+}
+.text-muted{
+  color: white;
 }
 html,
 body {
@@ -49,6 +56,10 @@ body {
 }
 .jojo2{
   height: 200px;
+}
+
+.skillz{
+  margin-top: 40px;
 }
 .text-vertical-center h1 {
     margin: 0;
@@ -103,7 +114,8 @@ hr.small {
     height: 100%;
     transform: translateX(250px);
     overflow-y: auto;
-    background: #222;
+    background: #D852D2;
+    opacity: 0.7;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
@@ -128,7 +140,7 @@ hr.small {
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999;
+    color: white;
 }
 
 .sidebar-nav li a:hover {
@@ -149,7 +161,7 @@ hr.small {
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color: #999;
+    color: white;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
@@ -244,6 +256,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+
 }
 
 .call-to-action .btn {
@@ -270,6 +283,15 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    background: url(../assets/miamibeach.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: white;
+    text-shadow: .5px .5px #000;
+    font-size: 18px;
+
 }
 
 #to-top {
