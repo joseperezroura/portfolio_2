@@ -127,7 +127,7 @@ hr.small {
     transform: translateX(250px);
     overflow-y: auto;
     background: #3BEA68;
-    opacity: 0.9;
+    /*opacity: 0.9;*/
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
