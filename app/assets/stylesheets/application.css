@@ -30,6 +30,12 @@
 .blue{
   color: #337ab7;
 }
+.webapps{
+  width: 290px;
+}
+.rowapps{
+  margin-top: 35px;
+}
 h2{
   font-family: 'Teko', sans-serif;
 }
@@ -57,7 +63,9 @@ body {
 .imdb{
   background-color: black;
 }
-
+.ironhack{
+  height: 50px;
+}
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -68,6 +76,7 @@ body {
 }
 .jojo2{
   height: 200px;
+  width: 200px;
 }
 
 .skillz{
@@ -304,6 +313,8 @@ footer {
     text-shadow: 1px 1px #000;
     font-size: 18px;
     padding: 50px 0;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 21px;
 }
 
 #to-top {
