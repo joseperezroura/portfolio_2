@@ -27,6 +27,9 @@
 .toggleblah{
   width: 44px;
 }
+.mb{
+  margin-left: 20px;
+}
 .blue{
   color: #337ab7;
 }
@@ -49,6 +52,7 @@ h2{
 }
 .text-muted{
   color: white;
+  font-size: 15px;
 }
 html,
 body {
@@ -135,7 +139,8 @@ hr.small {
     height: 100%;
     transform: translateX(250px);
     overflow-y: auto;
-    background: #3BEA68;
+    /*background: #3BEA68;*/
+    background: rgba(0,0,0,0.8);
     /*opacity: 0.9;*/
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
