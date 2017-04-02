@@ -24,6 +24,9 @@
  */
 
 /* Global Styles */
+.js-quotes{
+  display: none;
+}
 .toggleblah{
   width: 44px;
 }
