@@ -45,6 +45,10 @@
 h2{
   font-family: 'Teko', sans-serif;
 }
+h1{
+  font-family: 'Teko', sans-serif;
+  color: white;
+}
 .white {
   color: white;
 }
@@ -65,6 +69,8 @@ body {
 
 body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /*font-family: "tk-parkway-hotel"*/
+
     /*font-family: 'Open Sans', sans-serif;*/
 }
 .imdb{
