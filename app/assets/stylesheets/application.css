@@ -45,8 +45,9 @@
 h2{
   font-family: 'Teko', sans-serif;
 }
-h1{
+.title{
   font-family: 'Teko', sans-serif;
+  font-size: 7em;
   /*font-family: 'Six Caps', sans-serif;*/
   color: white;
 }
