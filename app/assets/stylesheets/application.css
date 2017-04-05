@@ -51,6 +51,19 @@ h2{
   /*font-family: 'Six Caps', sans-serif;*/
   color: white;
 }
+.title2{
+  /*font-family: 'Teko', sans-serif;*/
+  font-family: 'Allan', cursive;
+
+  font-size: 5em;
+  /*font-family: 'Six Caps', sans-serif;*/
+  color: #3BEA68;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+.line{
+  line-height: 1.4em;
+}
 .white {
   color: white;
 }
