@@ -293,7 +293,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: image-url(../assets/codec.jpg) no-repeat center center scroll;
+    background: url(../assets/codec.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -323,7 +323,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: image-url(../assets/callout.jpg) no-repeat center center scroll;
+    background: url(../assets/callout.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -379,7 +379,7 @@ hr.small {
 
 footer {
     padding: 100px 0;
-    background: image-url(../assets/miamibeachstar.jpg) no-repeat center center scroll;
+    background: url(../assets/miamibeachstar.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
