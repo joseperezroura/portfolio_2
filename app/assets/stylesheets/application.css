@@ -14,144 +14,176 @@
  *= require_self
  */
 
+
 /*.jose_logo {
     height: 150px;
 }*/
+
+
 /*!
  * Start Bootstrap - Stylish Portfolio (http://startbootstrap.com/)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+
 /* Global Styles */
-.lead{
-  font-size: 19px;
+
+.lead {
+    font-size: 21px;
 }
-.js-quotes{
-  display: none;
+
+.js-quotes {
+    display: none;
 }
-.toggleblah{
-  width: 44px;
+
+.toggleblah {
+    width: 44px;
 }
-.mb{
-  margin-left: 20px;
+
+.mb {
+    margin-left: 20px;
 }
-.blue{
-  color: #337ab7;
+
+.blue {
+    color: #337ab7;
 }
-.webapps{
-  width: 290px;
+
+.webapps {
+    width: 290px;
 }
-.rowapps{
-  margin-top: 35px;
+
+.rowapps {
+    margin-top: 35px;
 }
-h2{
-  font-family: 'Teko', sans-serif;
+
+h2 {
+    font-family: 'Teko', sans-serif;
 }
-.title{
-  font-family: 'Teko', sans-serif;
-  font-size: 7em;
-  /*font-family: 'Six Caps', sans-serif;*/
-  color: white;
+
+.title {
+    font-family: 'Teko', sans-serif;
+    font-size: 7em;
+    /*font-family: 'Six Caps', sans-serif;*/
+    color: white;
 }
+
 @media (min-width: 418px) and (max-width: 729px) {
-  .title {
-    font-size: 4em;
-  }
+    .title {
+        font-size: 4em;
+    }
 }
+
 @media (min-width: 100px) and (max-width: 417px) {
-  .title {
-    font-size: 2.7em;
-  }
+    .title {
+        font-size: 2.9em;
+    }
 }
-.title2{
-  /*font-family: 'Teko', sans-serif;*/
-  font-family: 'Allan', cursive;
 
-  font-size: 5em;
-  /*font-family: 'Six Caps', sans-serif;*/
-  color: #3BEA68;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-
+.title2 {
+    /*font-family: 'Teko', sans-serif;*/
+    /*font-family: 'Allan', cursive;*/
+    /*font-family: 'Fugaz One', cursive;*/
+    font-family: 'Marvel', sans-serif;
+    font-size: 5em;
+    /*font-family: 'Six Caps', sans-serif;*/
+    color: #3BEA68;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
+
 @media (min-width: 100px) and (max-width: 729px) {
-  .title2 {
-    font-size: 2.3em;
-  }
+    .title2 {
+        font-size: 2.3em;
+    }
 }
-h4{
-  color: #3BEA68;
-  text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
-  font-family: 'Allan', cursive;
-  font-size: 1.8em;
-  letter-spacing: 2px;
-  /*border-radius: 20px 20px;
+
+h4 {
+    color: #3BEA68;
+    text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+    /*font-family: 'Allan', cursive;*/
+    /*font-family: 'Fugaz One', cursive;*/
+    font-family: 'Marvel', sans-serif;
+    font-size: 2em;
+    letter-spacing: 2px;
+    /*border-radius: 20px 20px;
   background: white;
   height: 35px;*/
-  /*width: 50px;*/
+    /*width: 50px;*/
 }
-.webappstitle{
-  color: #3BEA68;
-  text-shadow: -1px 0 #337ab7, 0 1px #337ab7, 1px 0 #337ab7, 0 -1px #337ab7;
-  font-family: 'Allan', cursive;
-  font-size: 1.8em;
-  letter-spacing: 2px;
+
+.webappstitle {
+    color: #3BEA68;
+    text-shadow: -1px 0 #337ab7, 0 1px #337ab7, 1px 0 #337ab7, 0 -1px #337ab7;
+    /*font-family: 'Allan', cursive;*/
+    font-family: 'Marvel', sans-serif;
+    font-size: 2em;
+    letter-spacing: 2px;
 }
-.line{
-  line-height: 1.7em;
+
+.line {
+    line-height: 1.7em;
 }
+
 .white {
-  color: white;
+    color: white;
 }
-.h1blah{
-  color: white;
-  text-shadow: 1px 1px #000;
-  /*text-shadow: 1px 1px #1BE271;*/
+
+.h1blah {
+    color: white;
+    text-shadow: 1px 1px #000;
+    /*text-shadow: 1px 1px #1BE271;*/
 }
-.text-muted{
-  color: #3BEA68;
-  font-size: 15px;
+
+.text-muted {
+    color: #3BEA68;
+    font-size: 15px;
 }
-html,
-body {
+
+html, body {
     width: 100%;
     height: 100%;
 }
 
 body {
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     /*font-family: "tk-parkway-hotel"*/
-
     /*font-family: 'Open Sans', sans-serif;*/
 }
-.imdb{
-  background-color: black;
+
+.imdb {
+    background-color: black;
 }
-.ironhack{
-  height: 50px;
+
+.ironhack {
+    height: 50px;
 }
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
 }
+
 .jojo {
-  height: 30px;
-}
-.jojo2{
-  height: 200px;
-  width: 200px;
-}
-@media (min-width: 100px) and (max-width: 729px) {
-  .jojo2 {
-    height: 150px;
-    width: 150px;
-  }
+    height: 30px;
 }
 
-.skillz{
-  margin-top: 40px;
+.jojo2 {
+    height: 200px;
+    width: 200px;
 }
+
+@media (min-width: 100px) and (max-width: 729px) {
+    .jojo2 {
+        height: 150px;
+        width: 150px;
+    }
+}
+
+.skillz {
+    margin-top: 40px;
+}
+
 .text-vertical-center h1 {
     margin: 0;
     padding: 0;
@@ -159,35 +191,33 @@ body {
     font-weight: 700;
 }
 
+
 /* Custom Button Styles */
 
 .btn-dark {
     border-radius: 0;
     color: #fff;
-    background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     padding-left: 10px;
     padding-right: 10px;
 }
 
-.btn-dark:hover,
-.btn-dark:focus,
-.btn-dark:active {
+.btn-dark:hover, .btn-dark:focus, .btn-dark:active {
     color: #fff;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 .btn-light {
     border-radius: 0;
     color: #333;
-    background-color: rgb(255,255,255);
+    background-color: rgb(255, 255, 255);
 }
 
-.btn-light:hover,
-.btn-light:focus,
-.btn-light:active {
+.btn-light:hover, .btn-light:focus, .btn-light:active {
     color: #333;
-    background-color: rgba(255,255,255,0.8);
+    background-color: rgba(255, 255, 255, 0.8);
 }
+
 
 /* Custom Horizontal Rule */
 
@@ -195,10 +225,13 @@ hr.small {
     max-width: 100px;
 }
 
+
 /* Side Menu */
-.navjose{
-  font-size: 18px;
+
+.navjose {
+    font-size: 18px;
 }
+
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
@@ -206,11 +239,11 @@ hr.small {
     width: 250px;
     height: 268px;
     transform: translateX(250px);
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
     overflow-y: auto;
     /*background: #3BEA68;*/
-    background: rgba(0,0,0,0.8);
+    background: rgba(0, 0, 0, 0.8);
     /*opacity: 0.9;*/
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
@@ -242,25 +275,24 @@ hr.small {
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
-    background: rgba(255,255,255,0.2);
+    background: rgba(255, 255, 255, 0.2);
 }
 
-.sidebar-nav li a:active,
-.sidebar-nav li a:focus {
+.sidebar-nav li a:active, .sidebar-nav li a:focus {
     text-decoration: none;
 }
 
-.sidebar-nav > .sidebar-brand {
+.sidebar-nav>.sidebar-brand {
     height: 55px;
     font-size: 18px;
     line-height: 55px;
 }
 
-.sidebar-nav > .sidebar-brand a {
+.sidebar-nav>.sidebar-brand a {
     color: white;
 }
 
-.sidebar-nav > .sidebar-brand a:hover {
+.sidebar-nav>.sidebar-brand a:hover {
     color: #fff;
     background: none;
 }
@@ -286,6 +318,7 @@ hr.small {
     margin: 5px 5px 0 0;
 }
 
+
 /* Header */
 
 .header {
@@ -299,12 +332,22 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+@media (min-width: 100px) and (max-width: 729px) {
+    .header {
+      background: url(../assets/miami2.jpg) no-repeat center center scroll;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+    }
+}
 
 /* About */
 
 .about {
     padding: 50px 0;
 }
+
 
 /* Services */
 
@@ -315,6 +358,7 @@ hr.small {
 .service-item {
     margin-bottom: 30px;
 }
+
 
 /* Callout */
 
@@ -329,6 +373,7 @@ hr.small {
     background-size: cover;
     -o-background-size: cover;
 }
+
 
 /* Portfolio */
 
@@ -348,16 +393,17 @@ hr.small {
     opacity: 0.8;
 }
 
+
 /* Call to Action */
 
 .call-to-action {
     padding: 50px 0;
-
 }
 
 .call-to-action .btn {
     margin: 10px;
 }
+
 
 /* Map */
 
@@ -375,6 +421,7 @@ hr.small {
     pointer-events: none;
 }
 
+
 /* Footer */
 
 footer {
@@ -388,13 +435,13 @@ footer {
     text-shadow: 1px 1px #000;
     font-size: 16px;
     padding: 50px 0;
-    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 21px;
 }
 
 #to-top {
-  display: none;
-  position: fixed;
-  bottom: 5px;
-  right: 5px;
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
 }
