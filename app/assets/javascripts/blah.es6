@@ -16,9 +16,9 @@ $(function() {
     function showNextQuote() {
         ++quoteIndex;
         quotes.eq(quoteIndex % quotes.length)
-            .fadeIn(800)
-            .delay(800)
-            .fadeOut(800, showNextQuote);
+            .fadeIn(700)
+            .delay(700)
+            .fadeOut(700, showNextQuote);
     }
 
     showNextQuote();
