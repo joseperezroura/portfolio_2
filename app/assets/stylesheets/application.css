@@ -75,12 +75,17 @@ h2 {
 @media (min-width: 418px) and (max-width: 729px) {
     .title {
         font-size: 4em;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        /*color: #07295A;*/
     }
 }
 
 @media (min-width: 100px) and (max-width: 417px) {
     .title {
         font-size: 2.9em;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+        /*color: #07295A;*/
     }
 }
 
@@ -99,6 +104,8 @@ h2 {
 @media (min-width: 100px) and (max-width: 729px) {
     .title2 {
         font-size: 2.3em;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
     }
 }
 
@@ -342,7 +349,7 @@ hr.small {
 }
 @media (min-width: 100px) and (max-width: 729px) {
     .header {
-      background: url(../assets/bwcoding2.jpg) no-repeat center center scroll;
+      background: url(../assets/jose-press.jpg) no-repeat center center scroll;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       background-size: cover;
