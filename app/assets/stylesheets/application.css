@@ -62,6 +62,7 @@
 
 h2 {
     font-family: 'Teko', sans-serif;
+
 }
 
 .title {
@@ -89,6 +90,7 @@ h2 {
     /*font-family: 'Fugaz One', cursive;*/
     font-family: 'Marvel', sans-serif;
     font-size: 5em;
+    font-style: italic;
     /*font-family: 'Six Caps', sans-serif;*/
     color: #42C0FB;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
@@ -107,7 +109,9 @@ h4 {
     /*font-family: 'Fugaz One', cursive;*/
     font-family: 'Marvel', sans-serif;
     font-size: 2em;
+    font-style: italic;
     letter-spacing: 2px;
+
     /*border-radius: 20px 20px;
   background: white;
   height: 35px;*/
@@ -120,6 +124,7 @@ h4 {
     /*font-family: 'Allan', cursive;*/
     font-family: 'Marvel', sans-serif;
     font-size: 2em;
+    font-style: italic;
     letter-spacing: 2px;
 }
 
