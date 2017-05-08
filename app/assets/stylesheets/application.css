@@ -28,9 +28,12 @@
 
 
 /* Global Styles */
-
+.bg-primary{
+  background-color: #07295A;
+}
 .lead {
     font-size: 21px;
+    font-weight: 400;
 }
 
 .js-quotes {
@@ -46,7 +49,7 @@
 }
 
 .blue {
-    color: #337ab7;
+    color: #07295A	;
 }
 
 .webapps {
@@ -87,7 +90,7 @@ h2 {
     font-family: 'Marvel', sans-serif;
     font-size: 5em;
     /*font-family: 'Six Caps', sans-serif;*/
-    color: #3BEA68;
+    color: #42C0FB;
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
@@ -98,7 +101,7 @@ h2 {
 }
 
 h4 {
-    color: #3BEA68;
+    color: #42C0FB;
     text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
     /*font-family: 'Allan', cursive;*/
     /*font-family: 'Fugaz One', cursive;*/
@@ -112,8 +115,8 @@ h4 {
 }
 
 .webappstitle {
-    color: #3BEA68;
-    text-shadow: -1px 0 #337ab7, 0 1px #337ab7, 1px 0 #337ab7, 0 -1px #337ab7;
+    color: #42C0FB;
+    text-shadow: -1px 0 #07295A	, 0 1px #07295A	, 1px 0 #07295A	, 0 -1px #07295A	;
     /*font-family: 'Allan', cursive;*/
     font-family: 'Marvel', sans-serif;
     font-size: 2em;
@@ -135,7 +138,7 @@ h4 {
 }
 
 .text-muted {
-    color: white;
+    color: #07295A;
     font-size: 15px;
 }
 
@@ -426,17 +429,19 @@ hr.small {
 
 footer {
     padding: 100px 0;
-    background: url(../assets/miamibeachstar.jpg) no-repeat center center scroll;
-    -webkit-background-size: cover;
+    /*background: url(../assets/miamibeachstar.jpg) no-repeat center center scroll;*/
+    /*-webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
     color: white;
     text-shadow: 1px 1px #000;
     font-size: 16px;
     padding: 50px 0;
     font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 21px;
+    background-color: #07295A;
+
 }
 
 #to-top {
