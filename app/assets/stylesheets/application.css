@@ -82,7 +82,7 @@ h2 {
 
 @media (min-width: 100px) and (max-width: 417px) {
     .title {
-        font-size: 2.9em;
+        font-size: 3em;
         text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
         /*color: #07295A;*/
@@ -103,7 +103,7 @@ h2 {
 
 @media (min-width: 100px) and (max-width: 729px) {
     .title2 {
-        font-size: 2.3em;
+        font-size: 2.5em;
         text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
     }
